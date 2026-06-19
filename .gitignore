@@ -1,0 +1,29 @@
+# Unreal generated files
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# Unreal generated asset data
+*_BuiltData.uasset
+
+# Generated project files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+*.sln.iml
+
+# IDE/editor local state
+.vs/
+.idea/
+.vscode/
+
+# OS noise
+.DS_Store
+Thumbs.db
+Desktop.ini
